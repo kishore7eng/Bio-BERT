@@ -12,8 +12,6 @@ models achieve significant gains over baseline models.
 To study more about the existing models, Pleas have a look at following research papers.
 
 
-DISCLAIMER: This project is not used for any commercialisation, rather only for Academic Purpose. 
-
 Christopher Clark, Mark Yatskar, and Luke Zettlemoyer. 2019. Don’t Take the
 Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Bi-
 ases. In Proceedings of the 2019 Conference on Empirical Methods in Natural
@@ -29,9 +27,13 @@ Online. Association for Computational Linguistics.
 Nam, Jun Hyun, Hyuntak Cha, Sungsoo Ahn, Jaeho Lee and Jinwoo Shin.
 “Learning from Failure: De-biasing Classifier from Biased Classifier.” Neural
 Information Processing Systems (2020).
- 																
+
+
+DISCLAIMER: This project is not used for any commercialisation, rather only for Academic Purpose. 
  																
 Made by:
 
      Kishore M
+Under supervision of
+     Dr.Amit Awekar
 
